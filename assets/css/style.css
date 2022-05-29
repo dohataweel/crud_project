@@ -1,0 +1,21 @@
+.my-form
+{
+    background-color: hsl(289, 71%, 70%);
+    box-shadow: 10px -15px 10px rgb(240, 161, 174)
+}
+.headding
+{
+    color: hsl(289, 66%, 50%);
+    text-transform: uppercase;
+    
+}
+.my-div
+{
+   
+    margin:15px  auto -16px!important;
+}
+.editbtn
+{
+    opacity: 0;
+    margin-left: 10px;
+}
